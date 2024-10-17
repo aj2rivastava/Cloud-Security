@@ -1,5 +1,3 @@
-<img width="431" alt="Screenshot 2024-01-26 at 11 56 32 PM" src="https://github.com/redskycyber/Cloud-Security/assets/157662722/f4e8bef4-ff4f-4567-b63f-f4bd5177b120">
-
 For those looking for a better understanding of successful hacks in Cloud environments, check out this amazing free repository of headline AWS breaches and their root causes, which has helped me become a stronger practitioner:
 
 https://github.com/ramimac/aws-customer-security-incidents
